@@ -1,0 +1,7 @@
+torch
+numpy
+gymnasium
+kaggle-environments==1.25.8
+pytest
+matplotlib
+tqdm

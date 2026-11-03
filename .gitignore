@@ -1,0 +1,7 @@
+runs/
+analysis/
+__pycache__/
+*.pth
+*.pyc
+*.egg-info/
+.venv/

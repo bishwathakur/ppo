@@ -1,0 +1,9 @@
+72f3171 feat: add train/play/analyze CLIs and gitignore; scale PPO rewards to thousands
+1b1ec9e feat: add PPO core (rollout, GAE, clipped update) with tests
+575d275 feat: add day_env gymnasium wrapper and shared-trunk actor-critic
+8ee51a0 feat: add day_controller executor with seed-budget livelock fix; switch to CPU torch
+8c3edf8 feat: add features.py obs encoder (FEAT_DIM=64) with tests; fix bench step count
+f2db31c docs: add implementation plan (15 tasks) and learning walkthrough README
+5e2347f docs: fix 8 spec review findings; add README walkthrough
+a48ca48 docs: fix 10 review findings in PPO design spec
+af23ef2 docs: Kaggriculture day-level PPO design spec
